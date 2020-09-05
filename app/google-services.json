@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761299489161",
+    "firebase_url": "https://projectmanager-erbe.firebaseio.com",
+    "project_id": "projectmanager-erbe",
+    "storage_bucket": "projectmanager-erbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761299489161:android:42825daf5b40ee372c5158",
+        "android_client_info": {
+          "package_name": "com.erbe.projectmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761299489161-7d8nk5hnj41ge876m6kbctodi0qf8q4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erbe.projectmanager",
+            "certificate_hash": "6a0ae460ac96c7cb41458a47c7a99296fcd196fb"
+          }
+        },
+        {
+          "client_id": "761299489161-c5ko5ij0j1tac91pilt8ukrh5e8ioq36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSOEYPP0V8R2oPLiXOIwh5yiPIJpJb4_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761299489161-c5ko5ij0j1tac91pilt8ukrh5e8ioq36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
